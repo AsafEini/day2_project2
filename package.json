@@ -4,7 +4,8 @@
   "description": "",
   "main": "project2.js",
   "scripts": {
-  "start":"node project2.js",
+    "start": "node project2.js",
+	"start2":"node numberisbigger.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +21,7 @@
   "dependencies": {
     "express": "^4.14.0",
     "opener": "^1.4.2",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "prompt": "^1.0.0"
   }
 }
