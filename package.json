@@ -1,0 +1,25 @@
+{
+  "name": "day2_project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project2.js",
+  "scripts": {
+  "start":"node project2.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiparsi930/day2_project2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiparsi930/day2_project2/issues"
+  },
+  "homepage": "https://github.com/asiparsi930/day2_project2#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "opener": "^1.4.2",
+    "path": "^0.12.7"
+  }
+}
